@@ -77,5 +77,15 @@ label:active {
     text-shadow: 5px 5px 1px #000000;
 }
 
-
+#footer {
+    background-color: #665544;
+    color: white;
+    position:fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 20px;
+    text-align: center;
+    
+}
 
