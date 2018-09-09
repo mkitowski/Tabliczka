@@ -1,7 +1,9 @@
 body {
-    width: 100%;
-    font-family: Arial, Verdana, sans-serif;
-    background: #f7f7f9;
+    text-align: center;
+    background-color: white;
+}
+
+#tabliczka {
     text-align: center;
     align-content: center;
 }
@@ -42,8 +44,8 @@ div#koniec{
 input {
     font-size: 120%;
     color: #5a5854;
-    background-color: #f7f7f9;
-    border: 1px solid #f2f2f2;
+    background-color: white;
+    border: 0px;
     padding: 15px;
     border-radius: 15px;
     text-align: right;
@@ -54,7 +56,7 @@ input.wpisz {
     font-size: 120%;
     color: #5a5854;
     background-color: white;
-    border: 1px solid #f2f2f2;
+    border: 2px solid #f2f2e2;
     padding: 15px;
     border-radius: 15px;
     text-align: left;
